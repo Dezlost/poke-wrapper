@@ -1,0 +1,17 @@
+### 
+
+POST http://localhost:1234/creacion HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "info": "probando todo"
+}
+
+
+### 
+
+
+### 
+
+GET http://localhost:1234/charizard HTTP/1.1

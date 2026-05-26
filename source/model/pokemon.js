@@ -1,4 +1,4 @@
-import { capitalice } from "../utility/capitalice.js";
+import { capitalice } from "../../utility/capitalice.js";
 
 export class pokemon {
   constructor(data) {
