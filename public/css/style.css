@@ -1,0 +1,15 @@
+* {
+    color :aqua
+}
+
+p{
+    color: white;
+
+}
+
+body {
+    background-color: black;
+}
+::placeholder {
+    color: black;
+}

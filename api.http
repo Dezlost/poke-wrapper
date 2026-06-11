@@ -14,4 +14,5 @@ Content-Type: application/json
 
 ### 
 
-GET http://localhost:1234/charizard HTTP/1.1
+GET http://localhost:3000/charizard HTTP/1.1
+Accept: application/json

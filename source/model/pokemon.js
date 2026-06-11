@@ -28,4 +28,12 @@ export class pokemon {
       return acumulador + dato.base_stat;
     }, 0);
   }
+  toJson() {
+    return {
+      pokemon: this.pokemon,
+      moves: this.moves,
+      abilities: this.abilities,
+      stats: this.stats,
+    };
+  }
 }
